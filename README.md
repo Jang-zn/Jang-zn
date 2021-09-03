@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
 
 <!--
 **Jang-zn/Jang-zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
