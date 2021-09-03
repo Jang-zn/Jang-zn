@@ -1,12 +1,13 @@
 
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=HTML&CSS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=HTML&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=JSP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Mybatis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Mybatis&logoColor=white"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang-zn&show_icons=true&theme=dracula)
