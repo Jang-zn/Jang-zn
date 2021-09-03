@@ -3,7 +3,7 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zn2309)](https://solved.ac/zn2309/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-zn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jang-zn)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jang-zn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jang-zn/Jang-zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
