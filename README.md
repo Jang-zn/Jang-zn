@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>
 
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zn2309)](https://solved.ac/zn2309/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-zn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jangk)](https://github.com/anuraghazra/github-readme-stats)
