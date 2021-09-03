@@ -1,4 +1,13 @@
+
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=HTML&CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=JSP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Mybatis&logoColor=white"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jang-zn&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zn2309)](https://solved.ac/zn2309/)
