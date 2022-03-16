@@ -1,14 +1,20 @@
 
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a><br>
+<!-- dart, flutter -->
+<img src="https://img.shields.io/badge/dart-000000?style=flat-square&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/flutter-000000?style=flat-square&logo=Flutter&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/firebase-000000?style=flat-square&logo=Firebase&logoColor=white"/></a><br><br>
+<!-- Java, Spring -->
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mybatis-000000?style=flat-square&logo=Mybatis&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=OracleDB&logoColor=white"/></a><br><br>
+
+<!-- frontend -->
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+
 
 
 
