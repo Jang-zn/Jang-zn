@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OracleDB-000000?style=flat-square&logo=OracleDB&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=Oracle&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white"/></a><br>
 
