@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/flutter-000000?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/firebase-000000?style=flat-square&logo=Firebase&logoColor=white"/></a><br>
 <!-- web frontend -->
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=Html&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=Css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
 
 <!-- Backend Java, Spring, python, mongoDB -->
