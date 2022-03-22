@@ -3,6 +3,10 @@
 <img src="https://img.shields.io/badge/dart-000000?style=flat-square&logo=Dart&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/flutter-000000?style=flat-square&logo=Flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/firebase-000000?style=flat-square&logo=Firebase&logoColor=white"/></a><br>
+<!-- web frontend -->
+<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
 
 <!-- Backend Java, Spring, python, mongoDB -->
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -12,10 +16,7 @@
 <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white"/></a><br>
 
-<!-- frontend -->
-<img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=white"/></a><br>
+
 
 
 
