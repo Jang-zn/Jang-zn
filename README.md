@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=OracleDB&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/mongo-000000?style=flat-square&logo=Mongo&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white"/></a><br>
 
 <!-- frontend -->
 <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html&logoColor=white"/></a>
